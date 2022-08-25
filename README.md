@@ -1,4 +1,2 @@
 # Repository-Test
-Test
-Dette er en tredje test !!
-Dette er en fjaere Test !!!
+This is the original test by Manuel !!
